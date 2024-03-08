@@ -1,0 +1,3 @@
+[submodule "spacetimecrawler4py"]
+	path = spacetimecrawler4py
+	url = git@github.com:warrenregister/spacetime-crawler4py.git
